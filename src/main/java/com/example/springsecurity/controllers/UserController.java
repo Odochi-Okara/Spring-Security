@@ -1,7 +1,7 @@
 package com.example.springsecurity.controllers;
 
-import com.sq009.springsecuritydemo.models.User;
-import com.sq009.springsecuritydemo.services.UserService;
+import com.example.springsecurity.models.User;
+import com.example.springsecurity.services.UserService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
